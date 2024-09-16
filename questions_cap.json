@@ -1,0 +1,27 @@
+{
+   "Q1":"What's the capital of Deutchland",
+   "opt1":["Belin","Munchen","Bern","Frankfurt","Hints"],
+   "an1":"a",
+   "hint1":"it begins by B",
+
+   "Q2":"What's the capital of Afghanistan",
+   "opt2":["Kandhar","Kabul","Mazar-e-Sharif","None of these","Hints"],
+   "an2":"b",
+   "hint2":"It is the shortest word",
+
+   "Q3":"What's the capital of Albania",
+   "opt3":["Canberra","Baku","Vienna","Tirane","Hints"],
+   "an3":"d",
+   "hint3":"It has 6 letters",
+
+   "Q4":"What's the capital of Argentina",
+   "opt4":["Canberra","Vienna","Baku","Buenos Aires","Hints"],
+   "an4":"d",
+   "hint4":"It is the longest word",
+
+   "Q5":"What's the capital of Bahrain",
+   "opt5":["Manama","Porto Novo","Doha","Jeddah","Hints"],
+   "an5":"a",
+   "hint5":"it contains a letter which is repeated 3 times"
+
+    }

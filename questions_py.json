@@ -1,0 +1,49 @@
+{
+   "Q1":"What is called when a function is defined inside a class",
+   "opt1":["Module","Class","Another Function","Method","Hints"],
+   "an1":"d",
+   "exp1":"When a function is defined inside a class then it is called Method.\nThe method is accessible to data that is contained within the class.",
+   "hint1":"It is not class",
+
+   "Q2":"Which of the following is the use of id() function in python",
+   "opt2":["Id returns the identity of the object",
+   "Every object doesn’t have a unique id",
+   "All of the mentioned",
+   "None of these",
+   "Hints"],
+   "an2":"a",
+   "exp2":"Each object in Python has a unique id. The id() function returns the object’s id.",
+   "hint2":"Id is a abbreviation for identity ",
+
+
+   "Q3":"Suppose list1 is [3,4,5,20,5,25,1,3], what is list1 after list1.pop(1)",
+   "opt3":["[3, 4, 5, 20, 5, 25, 1, 3]",
+   "[1, 3, 3, 4, 5, 5, 20, 25]",
+   "[3, 5, 20, 5, 25, 1, 3]",
+   "[1, 3, 4, 5, 20, 5, 25]",
+   "Hints"],
+   "an3":"c",
+   "exp3":"pop(i) removes the ith index element from the list",
+   "hint3":"no hints",      
+
+   "Q4":"What do we use to define a block of code in Python language",
+   "opt4":["Key",
+   "Brackets",
+   "Indentation",
+   "None of these",
+   "Hints"],
+   "an4":"c",
+   "exp4":"Python uses indentation to define blocks of code. Indentations are simply spaces or tabs used as an\n indicator that is part of the indent code child. As used in curly braces C, C++, and Java.",
+   "hint4":"It is used in curly braces C, C++, and Java",
+
+   "Q5":"Who developed the Python language",
+   "opt5":["Zim Den",
+   "Guido van Rossum",
+   "Niene Stom",
+   "Wick van Rossum",
+   "Hints"],
+   "an5":"b",
+   "exp5":"Python language was developed by Guido van Rossum in the Netherlands",
+   "hin5":"He is from Netherlands" 
+
+    }
